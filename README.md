@@ -1,4 +1,4 @@
-# Reading Group @ USC CS
+### Reading Group @ USC CS
 
 > Topics
 
