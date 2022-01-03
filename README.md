@@ -2,5 +2,7 @@
 
 ### Topics
 
-1. Graph Neural Networks
+#### Graph Neural Networks
+| Paper | Link | Authors | Year
+|-------|------|---------|-----|
 
