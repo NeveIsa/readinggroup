@@ -1,6 +1,7 @@
 # Reading Group @ USC CS
 
 ### Topics
+---
 
 #### Graph Neural Networks
 | Paper | ORG | Year
